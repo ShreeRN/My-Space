@@ -4,6 +4,7 @@
 #differential gene expression analysis
 
 #installing and loading the GEOquery package
+
 install.packages("BiocManager")
 BiocManager::install("GEOquery")
 BiocManager::install("limma")
